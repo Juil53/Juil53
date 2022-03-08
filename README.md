@@ -1,16 +1,21 @@
-- 👋 Hi, I’m @Juil53
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML,CSS,JavaScript,Bootstrap,SASS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dinh Van Huu Nghia 
+- 👀 I’m interested in building modern UX UI website
+- 🌱 I’m currently learning HTML,CSS,JavaScript,Bootstrap,SASS,ReactJs,Redux,MaterialUI,...
+- 📫 How to reach me
+Email: dvhnghia53@gmail.com
 
-<!---
-Juil53/Juil53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Deployed Project:
+Diner Landing Page
+https://diner-bc-20.vercel.app/
 
+**Technologies used: HTML, CSS, Bootstrap, Slick, SCSS
 
-link Bài tập:
-https://github.com/Juil53/BC20-BaitapJS-Function-DinhVanHuuNghia
-https://github.com/Juil53/BC20-BaitapJS-Array-DinhVanHuuNghia
-https://github.com/Juil53/BC20_BaitapJS_Loop_DinhVanHuuNghia
+Cinema Website 
+https://bc-20-react-cinema.vercel.app/
+
+**Technologies used: JS, ReactJS, Redux, Slick, Material UI
+
+Samar
+https://samar-five.vercel.app/#
+
+**Technologies used: HTML, CSS, Bootstrap, animation libraries
